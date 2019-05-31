@@ -83,3 +83,5 @@ $newUser = New-ADuser -Path "OU=Accounts,OU=Production,DC=ProCamp,DC=it" -Name $
 #Powershell and Active Directory Goes into more depth than this speach
 #https://www.youtube.com/playlist?list=PLIoX3-mcY80jhSJkcfQ2bdv32_LHCt-sA
 
+#Everything above is currently on GitHub
+#https://github.com/TedBusto/itprocampdemo.git
